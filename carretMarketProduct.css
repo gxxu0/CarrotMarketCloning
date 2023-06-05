@@ -144,7 +144,7 @@ hr {
 .article-message {
   color: gray;
   font-size: 13px;
-  margin-bottom: 40px;
+  margin-bottom: 5px;
 }
 
 /* 인기중고 배너 */
@@ -163,9 +163,11 @@ hr {
 }
 
 #used-article-ad article {
-  margin-top: 50px;
+  margin-top: 10px;
 }
-
+#used-article-ad {
+  margin-top: 30px;
+}
 .ad-body {
   display: flex;
   align-items: center;
